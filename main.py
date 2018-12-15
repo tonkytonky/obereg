@@ -47,7 +47,7 @@ class Defender:
                 else:
                     move_possible = False
 
-
+# Add comment
 class King:
     def __init__(self, i, j, move_limit):
         self.i = i
